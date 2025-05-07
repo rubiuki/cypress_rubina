@@ -1,0 +1,24 @@
+Ignore editor files
+.idea/*
+
+Ignore node_modules directory
+node_modules/
+
+Ignore log files
+*.log
+
+Ignore temporary files
+*.temp
+
+Ignore system files (e.g., Mac system files)
+.DS_Store
+
+Ignore npm debug log
+npm-debug.log
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# TypeScript
+*.tsbuildinfo
