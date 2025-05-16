@@ -35,3 +35,35 @@
 //     }
 //   }
 // }
+
+Cypress.Commands.add(
+  "deleteTodos",
+  (toDoListItems: string, clearCompletedButton: string) => {
+    cy.get(toDoListItems).then(($items) => {
+      if (!$items.length) {
+        cy.log("No todos to clear");
+        return;
+      }
+
+      cy.log("Check all to dos");
+      cy.get(`${toDoListItems} input[type="checkbox"]`).click({
+        multiple: true,
+      });
+
+      cy.log("Clearing all completed items");
+      cy.get(clearCompletedButton).click();
+
+      cy.log(
+        "Double check if the items are deleted if not delete with cross button",
+      );
+      cy.get(toDoListItems).then(($remaining) => {
+        if ($remaining.length) {
+          cy.get(`${toDoListItems} button`).click({
+            force: true,
+            multiple: true,
+          });
+        }
+      });
+    });
+  },
+);

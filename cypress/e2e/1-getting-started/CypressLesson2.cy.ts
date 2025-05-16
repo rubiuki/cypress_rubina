@@ -68,7 +68,7 @@ describe('ToDo Screen Tests', () => {
     }
 
     beforeEach(() => {
-        cy.visit('/todo');
+        cy.visit('https://example.cypress.io/todo');
         clearAllTodos();
     });
 
