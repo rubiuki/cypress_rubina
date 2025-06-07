@@ -1,0 +1,148 @@
+{
+  "totalCount": 5,
+  "data": [
+    {
+      "id": 9456,
+      "ownerUserId": 1112726,
+      "name": "Ruby's fifth collection",
+      "imageUrls": [],
+      "createDate": "2025-06-07T15:42:00.34Z",
+      "updateDate": "2025-06-07T19:42:00.34Z",
+      "listingCount": 10,
+      "collaborators": [
+        {
+          "collaboratorInfo": {
+            "id": 1112726,
+            "firstName": "Rubina",
+            "lastName": "Buyer",
+            "email": "rubina_s+700@purlin.com",
+            "phoneNumber": null,
+            "avatarUrl": "http://res.cloudinary.com/ddvd5ys2m/image/upload/v1718110985/users/rubina_s%252b700%2540purlin.com/avatar.jpg",
+            "fullName": "Rubina Buyer",
+            "lastActiveDate": null
+          },
+          "isActive": true,
+          "collaboratorType": "None"
+        }
+      ]
+    },
+    {
+      "id": 9455,
+      "ownerUserId": 1112726,
+      "name": "Ruby's forth collection",
+      "imageUrls": [],
+      "createDate": "2025-06-07T15:42:00.34Z",
+      "updateDate": null,
+      "listingCount": 0,
+      "collaborators": [
+        {
+          "collaboratorInfo": {
+            "id": 1112726,
+            "firstName": "Rubina",
+            "lastName": "Buyer",
+            "email": "rubina_s+700@purlin.com",
+            "phoneNumber": null,
+            "avatarUrl": "http://res.cloudinary.com/ddvd5ys2m/image/upload/v1718110985/users/rubina_s%252b700%2540purlin.com/avatar.jpg",
+            "fullName": "Rubina Buyer",
+            "lastActiveDate": null
+          },
+          "isActive": true,
+          "collaboratorType": "None"
+        }
+      ]
+    },
+    {
+      "id": 9454,
+      "ownerUserId": 1112726,
+      "name": "Ruby's third collection",
+      "imageUrls": [],
+      "createDate": "2025-05-07T15:42:00.34Z",
+      "updateDate": null,
+      "listingCount": 3,
+      "collaborators": [
+        {
+          "collaboratorInfo": {
+            "id": 1112726,
+            "firstName": "Rubina",
+            "lastName": "Buyer",
+            "email": "rubina_s+700@purlin.com",
+            "phoneNumber": null,
+            "avatarUrl": "http://res.cloudinary.com/ddvd5ys2m/image/upload/v1718110985/users/rubina_s%252b700%2540purlin.com/avatar.jpg",
+            "fullName": "Rubina Buyer",
+            "lastActiveDate": null
+          },
+          "isActive": true,
+          "collaboratorType": "None"
+        }
+      ]
+    },
+    {
+      "id": 9453,
+      "ownerUserId": 1112726,
+      "name": "Ruby's Second Collection",
+      "imageUrls": [],
+      "createDate": "2025-06-07T15:41:46.93Z",
+      "updateDate": null,
+      "listingCount": 0,
+      "collaborators": [
+        {
+          "collaboratorInfo": {
+            "id": 1112726,
+            "firstName": "Rubina",
+            "lastName": "Buyer",
+            "email": "rubina_s+700@purlin.com",
+            "phoneNumber": null,
+            "avatarUrl": "http://res.cloudinary.com/ddvd5ys2m/image/upload/v1718110985/users/rubina_s%252b700%2540purlin.com/avatar.jpg",
+            "fullName": "Rubina Buyer",
+            "lastActiveDate": null
+          },
+          "isActive": true,
+          "collaboratorType": "None"
+        }
+      ]
+    },
+    {
+      "id": 5069,
+      "ownerUserId": 1081733,
+      "name": "Rubina's first collection",
+      "imageUrls": [
+        "https://imgproxy-mc2.purlin.tech/xFVBMe__8Qk4prz_OPHfXjN1OlW47GPkPxbgv9LhMjs/resize:fill:540:0:1:0/plain/https://api-trestle.corelogic.com/trestle/Media/CRMLS/Property/PHOTO-jpeg/1061228602/1/NTcyNi81NjA0LzIw/MjAvMTIzMjYvMTcwOTE1MjM1Ng/w4l4Ii6TBLwpzxNJQl_9wX2alzo1jiLkRpzX8Nbiuyc",
+        "https://imgproxy-mc2.purlin.tech/xQGAH1V6J63QWPlXzr1HU3G4ZFQMRgcTs2Kz-10NW_k/resize:fill:540:0:1:0/plain/https://api-trestle.corelogic.com/trestle/Media/CRMLS/Property/PHOTO-jpeg/1061718651/1/NTcyNi81NjA0LzIw/MjAvMTIzMjYvMTcwOTAxMjQ4OQ/I3R6C3vn_zkTsll9u2PJAWDcuB8EbgnxYbZYDqBCo_w",
+        "https://imgproxy-mc2.purlin.tech/x2HKMpGT-K2FnGib6J46cKjrvpHhzAWD4kI1Kbp6rUg/resize:fill:540:0:1:0/plain/https://api-trestle.corelogic.com/trestle/Media/CRMLS/Property/PHOTO-jpeg/1052435256/1/NTcyNi81NjA0LzIw/MjAvMTIzMjYvMTcxNjMyMzE5NQ/z1bIxnv9notLVlehNTiBZZhBh5tL0ivEUEt_gokvbNg"
+      ],
+      "createDate": "2024-06-11T12:59:22.55Z",
+      "updateDate": null,
+      "listingCount": 14,
+      "collaborators": [
+        {
+          "collaboratorInfo": {
+            "id": 1112726,
+            "firstName": "Rubina",
+            "lastName": "Buyer",
+            "email": "rubina_s+700@purlin.com",
+            "phoneNumber": null,
+            "avatarUrl": "http://res.cloudinary.com/ddvd5ys2m/image/upload/v1718110985/users/rubina_s%252b700%2540purlin.com/avatar.jpg",
+            "fullName": "Rubina Buyer",
+            "lastActiveDate": null
+          },
+          "isActive": true,
+          "collaboratorType": "None"
+        },
+        {
+          "collaboratorInfo": {
+            "id": 1081733,
+            "firstName": "Agatha",
+            "lastName": "Jenney",
+            "email": "agatha.jenney@elliman.com",
+            "phoneNumber": null,
+            "avatarUrl": "http://res.cloudinary.com/douglas-elliman/image/upload/v1/HeadShots/330/il1jpzpvyi0ri8ri4iox",
+            "fullName": "Agatha Jenney",
+            "lastActiveDate": null
+          },
+          "isActive": true,
+          "collaboratorType": "Agent"
+        }
+      ]
+    }
+  ]
+}
